@@ -9,6 +9,7 @@ import Foundation
 import SwiftData
 import Combine
 
+// 컴바인 공부 냐미..
 class TodoViewModel {
     var container: ModelContainer?
     var context: ModelContext?

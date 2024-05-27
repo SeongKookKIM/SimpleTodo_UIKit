@@ -64,6 +64,7 @@ class ViewController: UIViewController, TodoSaveDelegate {
         ])
     }
     
+    // 컴바인 공부 냐미...
     var cancellable: Cancellable?
     func setTodoData() {
         cancellable?.cancel()
